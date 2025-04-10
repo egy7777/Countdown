@@ -105,6 +105,14 @@ button:hover {
     }
 }
 
+.footer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.8rem;
+    margin-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
 /* Mobile Optimization */
 @media (max-width: 480px) {
     .container {
